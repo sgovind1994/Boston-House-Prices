@@ -6,15 +6,19 @@ Developed a predictive financial model that provides recommendations to increase
 
 General Info
 
-Tools Used
+Technologies Used
 
 Project Status
 
+Room for Improvment
+
 ## General Information
 
-My main objectives with this project were to:
+Tasks I completed: 
 
-1) Explore the different variables that go into determining median house values,and see if I can use different machine learning models to predict these values
+1) Explored the different variables that go into determining median house values,and see if I can use different machine learning models to predict these values
+
+2) Built a Linear Regression Model, Decision Tree Classifier, and a Support Vector Machine
 
 ## Tools Used
 
