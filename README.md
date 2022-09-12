@@ -1,5 +1,4 @@
 # Boston-House-Prices
-
 Explored the different variables that go into determining median house values,and saw if I could use different machine learning models to predict these values.
 
 ## Table of Contents
