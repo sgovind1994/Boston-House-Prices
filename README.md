@@ -4,13 +4,10 @@ Explored the different variables that go into determining median house values,an
 
 ## Table of Contents
 
-General Information
-
-Technologies Used
-
-Project Status
-
-Room for Improvment
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Project Status](#project-status)
+* [Room for Improvment](#room-for-improvment)
 
 ## General Information
 
