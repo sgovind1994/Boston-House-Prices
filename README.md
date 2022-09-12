@@ -4,7 +4,7 @@ Explored the different variables that go into determining median house values,an
 
 ## Table of Contents
 
-General Info
+General Information
 
 Technologies Used
 
@@ -27,3 +27,9 @@ Python
 ## Project Status
 
 Project is: complete
+
+## Room for Improvment
+
+1) Could have chosen to split up the dataset into training and test data based off of a different variable, such as Crime, or even nitric-oxide concentration, just to see any change in results
+
+2) I would have chosen to focus my analysis more on the Charles River dummy variable, which would have allowed me to use different ML models
