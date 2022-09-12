@@ -1,6 +1,6 @@
 # Boston-House-Prices
 
-Developed a predictive financial model that provides recommendations to increase profitability of company based on revenue generated in previous years.
+Explored the different variables that go into determining median house values,and saw if I could use different machine learning models to predict these values.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Room for Improvment
 
 Tasks I completed: 
 
-1) Explored the different variables that go into determining median house values,and see if I can use different machine learning models to predict these values
+1) Conducted exploratory data analysis
 
 2) Built a Linear Regression Model, Decision Tree Classifier, and a Support Vector Machine
 
